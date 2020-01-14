@@ -3,4 +3,5 @@ $(document).ready(function(){
         height:500
     });
     $('.sidenav').sidenav();
+    $('.parallax').parallax();
 });

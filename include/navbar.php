@@ -5,7 +5,8 @@
 <nav class="navbar-fixed">
     <div class="nav-wrapper container">
       <ul class="hide-on-med-and-down">
-        <li><a href="index.php"><i class="fas fa-home fa-lg"></i></a></li>
+        <li><a href="index.php">BERANDA</a></li>
+        <!-- <i class="fas fa-home fa-lg"></i> -->
         <li><a href="tentang.php">TENTANG KAMI</a></li>
         <li><a href="#">SERVICE</a></li>
         <li><a href="#">PRODUK</a></li>
