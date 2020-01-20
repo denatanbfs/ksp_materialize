@@ -5,18 +5,18 @@
 <?php include 'include/navbar.php' ?>
 <!-- slider -->
 <div class="slider">
-  <ul class="slides">
+  <ul class="slides" style="object-fit: cover">
     <li>
-      <img class="image-responsive" src="image/slider5.jpg">
+      <img class="responsive-img" src="image/slider5.jpg">
     </li>
     <li>
-      <img class="image-responsive" src="image/slider6.jpg">
+      <img class="responsive-img" src="image/slider6.jpg">
     </li>
     <li>
-      <img class="image-responsive" src="image/slider7.jpg">
+      <img class="responsive-img" src="image/slider7.jpg">
     </li>
     <li>
-      <img class="image-responsive" src="image/slider8.jpg">
+      <img class="responsive-img" src="image/slider8.jpg">
     </li>
   </ul>
 </div>

@@ -5,13 +5,13 @@
 <?php include 'include/navbar.php' ?>
 <!-- parallax -->
 <div class="parallax-container">
-    <div class="parallax"><img src="image/tentang.jpg"></div>
+    <div class="parallax"><img class="responsive-img" src="image/tentang.jpg"></div>
 </div>
 <!-- tentang kartika sari -->
 <div class="section white">
 <div class="container">
   <div class="row center">
-    <h4 class="titlered">Tentang Kartika Sari</h4>
+    <h4 class="titlered">Sejarah Kartika Sari</h4>
     <p>Diawali dari toko sepeda motor yang menjual merk Yamaha, Suzuki, Honda dan dealer sepeda motor bekas dengan nama Kartika Sari yang didirikan oleh Bapak Paul Hengky Tanu Iskandar sejak tahun 1978 an. Seiring dengan berkembang pesatnya Kartika Sari dan berkembangnya tehnologi dalam dunia otomotif khususnya sepeda motor maka pada tahun 1980an kami mengajukan dealer Resmi Honda. Resmi berdirinya pada tanggal 8 September 1980 dengan nama Kartika Sari yang terletak di jalan Pasar Besar No 28 Malang.
     </p>
   </div>
@@ -42,11 +42,11 @@
 </div>
 
 <!-- dealer kami -->
-<div class="container">
+<!-- <div class="container"> -->
 <div class="row center">
   <h4>Kunjungi Juga</h4>
 </div>
-<div class="row">
+<div class="row" style="margin:30px">
   <div class="col s12 m4">
     <div class="card hoverable">
       <div class="card-image">
@@ -84,7 +84,7 @@
     </div>
   </div>
 </div>
-</div>
+<!-- </div> -->
 <?php include 'include/footer.php' ?>
 <?php include 'include/script.php' ?>
 </body>

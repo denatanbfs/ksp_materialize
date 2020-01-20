@@ -8,7 +8,7 @@
         <li><a href="index.php">BERANDA</a></li>
         <!-- <i class="fas fa-home fa-lg"></i> -->
         <li><a href="tentang.php">TENTANG KAMI</a></li>
-        <li><a href="#">SERVICE</a></li>
+        <li><a href="service.php">SERVICE</a></li>
         <li><a href="#">PRODUK</a></li>
         <li><a href="#">TESTIMONIAL</a></li>
         <li><a href="#">ARTIKEL</a></li>

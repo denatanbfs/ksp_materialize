@@ -166,7 +166,8 @@ a:hover{
   padding-right: 15px;
 }
 .page-footer{
-  background-color: #353535 !important;
+  background-image: url("../image/footerbg.png") ;
+  background-size: cover !important;
 }
 .footer-copyright{
   background-color: #202020 !important;
@@ -222,4 +223,74 @@ h5{
   color: #ff1c1c;
   font-weight: bold;
   padding-top: 50px !important;
+}
+
+
+/* service */
+.card-image#imgalur{
+  background-position: center;
+  width: 100%;
+}
+
+.card .card-reveal {
+  padding: 24px;
+  position: absolute;
+  background-color: rgb(255, 60, 60);
+  color: white;
+  width: 100%;
+  overflow-y: auto;
+  left: 0;
+  top: 100%;
+  height: 100%;
+  z-index: 3;
+  display: none;
+}
+
+.card-image#imgser{
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+}
+
+.gbr{
+  padding-top: 95px !important;
+  align-items: center !important;
+}
+.gbr2{
+  padding-top: 65px !important;
+}
+.gbr1{
+  align-items: center;
+}
+
+.layanan{
+  background-image: url(../image/bglayanan.png);
+  background-size: cover;
+  padding: 10px;
+}
+
+.titlelayanan{
+  color: rgb(255, 60, 60);
+  margin-top: 20px;
+}
+.layanantext{
+  color: rgb(31, 31, 31);
+}
+.card#cardlayanan{
+  background-color: rgba(235, 235, 235, 0);
+  border-radius: 20px;
+  
+  /* border: 4px solid rgb(255, 45, 45); */
+  -webkit-box-shadow: 0 0 0 0 rgba(255, 255, 255, 0) !important;
+  -moz-box-shadow: 0 0 0 0 rgba(255, 255, 255, 0) !important;
+  box-shadow: 0 0 0 0 rgba(255, 255, 255, 0) !important;
+}
+.imagelayanan{
+  width: 600px;
+  height: auto;
+}
+
+/* bengkel honda */
+.headtab{
+  color: white;
+  background-color: rgb(206, 25, 25);
 }
